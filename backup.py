@@ -3,6 +3,9 @@
 '''
 Script to create and store backups to desired place
 and with specified config files
+
+Syntax: python.py /path/with/future/backup/
+Output: backup_dd_mm_yyyy.tar.gz
 '''
 
 import sys
